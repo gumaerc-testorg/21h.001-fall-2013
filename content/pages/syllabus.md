@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 364eca8f-e7da-dd3d-c1b7-b3a3e6ef498f
 ---
@@ -238,7 +240,7 @@ E2
  
 {{< tdclose >}}
 {{< tdopen >}}
-Due: 1st Paper
+Due: 1{{< sup "st" >}} Paper
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +330,7 @@ R4
 Recitation: The Parisian Crowd in 1789
 {{< tdclose >}}
 {{< tdopen >}}
-Due: Rewrite of 1st Paper
+Due: Rewrite of 1{{< sup "st" >}} Paper
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -388,7 +390,7 @@ R6
 Recitation: Comparing Revolutionary France (1789–1815) and Revolutionary Egypt (2011–2012)
 {{< tdclose >}}
 {{< tdopen >}}
-Due: 2nd Paper
+Due: 2{{< sup "nd" >}} Paper
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -556,7 +558,7 @@ R10
 Recitation: Race and Revolutionary Nation Building
 {{< tdclose >}}
 {{< tdopen >}}
-Due: 3rd Paper
+Due: 3{{< sup "rd" >}} Paper
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -589,7 +591,7 @@ Panel Discussion: Hannah Arendt, "The Social Question"
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation: The 21st Century: Global Meanings of the French Revolution
+Recitation: The 21{{< sup "st" >}} Century: Global Meanings of the French Revolution
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -676,7 +678,7 @@ Revolution Today: Faculty and Student Discussion
 Conclusion and Student Evaluations
 {{< tdclose >}}
 {{< tdopen >}}
-Due: 4th Paper
+Due: 4{{< sup "th" >}} Paper
 {{< tdclose >}}
 
 {{< trclose >}}
