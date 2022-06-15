@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes where available.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURE NOTES
 Introduction and The 2011 Revolution in Egypt
 {{< tdclose >}}
 {{< tdopen >}}
-[The Ouster of Mubarak in Egypt January-February 2011 (PDF)]({{< baseurl >}}/resources/mit21h_001f13_lec_01)
+{{% resource_link 7aaab700-22f1-0aa0-e578-f769bca3ce2b "The Ouster of Mubarak in Egypt January-February 2011 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ None Available
 Britain's Fatal Triumph: The English Colonies, 1754–1765
 {{< tdclose >}}
 {{< tdopen >}}
-[Britain's Fatal Triumph (PDF)]({{< baseurl >}}/resources/mit21h_001f13_lec_03)
+{{% resource_link 30a80d82-8ff0-2b0f-9f89-e051336e7f46 "Britain's Fatal Triumph (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +75,7 @@ Britain's Fatal Triumph: The English Colonies, 1754–1765
 Race and Revolution: Slavery and the Roots of Colonial Independence
 {{< tdclose >}}
 {{< tdopen >}}
-[Race and Revolution (PDF)]({{< baseurl >}}/resources/mit21h_001f13_lec_04)
+{{% resource_link 0788e478-1884-ddc9-b206-dd886aa76cae "Race and Revolution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ None Available
 Endings and Beginnings
 {{< tdclose >}}
 {{< tdopen >}}
-[Endings and Beginnings (PDF - 2.0MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_12)
+{{% resource_link 69509a6c-f024-0891-7885-80a3a7d0cc60 "Endings and Beginnings (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +195,7 @@ Endings and Beginnings
 The Making of a Caribbean Plantation Colony: Slavery and Slave Revolts before the Revolution
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Making of a Caribbean Plantation Colony (PDF - 5.7MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_13)
+{{% resource_link 6407c530-be85-ed92-ab39-dfcaf65b4276 "The Making of a Caribbean Plantation Colony (PDF - 5.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +207,7 @@ The Making of a Caribbean Plantation Colony: Slavery and Slave Revolts before th
 How did the Revolution in Haiti Begin? (I) The Free People of Color
 {{< tdclose >}}
 {{< tdopen >}}
-[The Free People of Color (PDF - 4.8MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_14)
+{{% resource_link cd4a8161-ca42-3af6-a65b-aa4202c13f2b "The Free People of Color (PDF - 4.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +219,7 @@ How did the Revolution in Haiti Begin? (I) The Free People of Color
 How Did Revolution in Haiti Begin? (II) The Slave Revolts
 {{< tdclose >}}
 {{< tdopen >}}
-[The Slave Revolts (PDF - 1.8MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_15)
+{{% resource_link 7095c3e5-1476-1298-3cfa-b60a1e25dc58 "The Slave Revolts (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +231,7 @@ How Did Revolution in Haiti Begin? (II) The Slave Revolts
 Final Freedom? The Abolition of Slavery in Haiti
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Freedom? (PDF - 4.0MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_16)
+{{% resource_link 7a467429-615a-e10a-e682-0b0b9fcabdee "Final Freedom? (PDF - 4.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +243,7 @@ Final Freedom? The Abolition of Slavery in Haiti
 The Road to Independence: Toussaint Louverture's Story
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Road to Independence: Toussaint Louverture's Story (PDF - 2.6MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_17)
+{{% resource_link 6523508f-1908-d4e3-1a80-26717a8f4cf3 "The Road to Independence: Toussaint Louverture's Story (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +255,7 @@ The Road to Independence: Toussaint Louverture's Story
 Achieving Statehood: Haiti Among the Powers of the Earth
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Achieving Statehood: Haiti Among the Powers of the Earth (PDF - 3.2MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_18)
+{{% resource_link e8098ade-0a47-ddd9-43be-ce41c4c8443b "Achieving Statehood: Haiti Among the Powers of the Earth (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +333,7 @@ None Available
 Comparing the American, French, and Haitian Revolutions
 {{< tdclose >}}
 {{< tdopen >}}
-[Compairing the Revolution (PDF)]({{< baseurl >}}/resources/mit21h_001f13_lec_24)
+{{% resource_link 582af282-23e6-fbe5-d609-498760e8a153 "Compairing the Revolution (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +345,7 @@ Comparing the American, French, and Haitian Revolutions
 Authoritarianism, Poverty, and Foreign Intervention: Explaining Modern Haiti
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Explaining Modern Haiti (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_25)
+{{% resource_link 693b1ccf-d05a-7b6b-646f-6f0d3a0f66dd "Explaining Modern Haiti (PDF - 2.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +357,7 @@ Authoritarianism, Poverty, and Foreign Intervention: Explaining Modern Haiti
 Revolution Today: Faculty and Student Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-[Revolution Today (PDF - 3.8MB)]({{< baseurl >}}/resources/mit21h_001f13_lec_26)
+{{% resource_link 6ca46973-9a44-22fc-b6f4-dad309a346fd "Revolution Today (PDF - 3.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
