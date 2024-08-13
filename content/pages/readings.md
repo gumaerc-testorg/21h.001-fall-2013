@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 88371cf6-edeb-5f00-8653-e2a5f63271b4
 ---
-\[El Rashidi\] = El Rashidi, Yasmine. *The Battle for Egypt: Dispatches From the Revolution*. New York Review Books, 2011.   
+\[El Rashidi\] = El Rashidi, Yasmine. *The Battle for Egypt: Dispatches From the Revolution*. New York Review Books, 2011.    
 (E-Book only; available from Amazon, Barnes & Noble, Google Books, etc.)
 
 \[Doyle\] = Doyle, William. *The French Revolution: A Very Short Introduction*. Oxford University Press, 2001. ISBN: 9780192853967. \[Preview with [Google Books](http://books.google.com/books?id=OEi4bYIUP1sC&pg=PAfrontcover)\]
@@ -128,7 +128,7 @@ No readings.
 Race and Revolution: Slavery and the Roots of Colonial Independence
 {{< tdclose >}}{{< tdopen >}}
 
-Paine, Thomas. "[African Slavery in America](http://www.constitution.org/tp/afri.htm)." *Pennsylvania Journal and Weekly Advertiser*, 8 March 1775.
+Paine, Thomas. "[African Slavery in America](https://www.historyisaweapon.com/defcon1/paineafricanslaveryinamerica.html)." 1775. History is a Weapon.
 
 ———. *Common Sense.* Reprint Services Corporation, 1776. ISBN: 9780781247184.
 
